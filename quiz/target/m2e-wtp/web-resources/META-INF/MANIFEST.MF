@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: akshay.singh
+Build-Jdk: 17.0.2
+Implementation-Title: quiz
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/quiz
+Main-Class: com.RunApplication
+Created-By: Maven Integration for Eclipse
+
